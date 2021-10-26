@@ -1,0 +1,1255 @@
+<?xml version="1.0"?>
+<ROOT>
+  <HEADER>
+    <TYPE>
+      <EXTENSION_TABLE_NAME>HALFMOON_METADATA</EXTENSION_TABLE_NAME>
+      <NAME>Tracker Halfmoon Metadata</NAME>
+    </TYPE>
+    <RUN mode="SEQUENCE_NUMBER" sequence="TRK_OT_RUN_SEQ">
+      <RUN_TYPE>PQC</RUN_TYPE>
+      <LOCATION>Demokritos</LOCATION>
+      <INITIATED_BY_USER>A. Kyriakis</INITIATED_BY_USER>
+      <RUN_BEGIN_TIMESTAMP>2021-09-28 14:02:01</RUN_BEGIN_TIMESTAMP>
+      <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+    </RUN>
+  </HEADER>
+  <DATA_SET>
+    <COMMENT_DESCRIPTION>Metadata with flute and structure</COMMENT_DESCRIPTION>
+    <VERSION>v2</VERSION>
+    <PART>
+      <NAME_LABEL>37400_015_2-S_HM_EE</NAME_LABEL>
+      <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+    </PART>
+    <DATA>
+      <KIND_OF_HM_FLUTE_ID>PQC1</KIND_OF_HM_FLUTE_ID>
+      <KIND_OF_HM_STRUCT_ID>FET_PSS</KIND_OF_HM_STRUCT_ID>
+      <KIND_OF_HM_SET_ID>Left</KIND_OF_HM_SET_ID>
+      <KIND_OF_HM_CONFIG_ID>Not Used</KIND_OF_HM_CONFIG_ID>
+      <EQUIPMENT>KEITHLEY 2410</EQUIPMENT>
+      <WAITING_TIME_S>0.500</WAITING_TIME_S>
+      <TEMP_SET_DEGC>22.600</TEMP_SET_DEGC>
+      <AV_TEMP_DEGC>22.600</AV_TEMP_DEGC>
+      <PROCEDURE_TYPE>FET1</PROCEDURE_TYPE>
+      <FILE_NAME>Demokritos_VPX37400_015_2-S_HM_E_Left_PQC1_FETPSs_trans.xml</FILE_NAME>
+    </DATA>
+    <CHILD_DATA_SET>
+      <HEADER>
+        <TYPE>
+          <EXTENSION_TABLE_NAME>TEST_SENSOR_IV</EXTENSION_TABLE_NAME>
+          <NAME>Tracker Halfmoon IV Test</NAME>
+        </TYPE>
+      </HEADER>
+      <DATA_SET>
+        <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+        <VERSION>V2</VERSION>
+        <PART>
+          <NAME_LABEL>37400_015_2-S_HM_EE</NAME_LABEL>
+          <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+        </PART>
+        <DATA>
+          <VOLTS>-5.000</VOLTS>
+          <CURRNT_NAMP>7.466e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:01</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.900</VOLTS>
+          <CURRNT_NAMP>6.404e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:05</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.800</VOLTS>
+          <CURRNT_NAMP>6.450e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:06</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.700</VOLTS>
+          <CURRNT_NAMP>6.743e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:08</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.600</VOLTS>
+          <CURRNT_NAMP>7.060e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:10</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.500</VOLTS>
+          <CURRNT_NAMP>7.269e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:11</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.400</VOLTS>
+          <CURRNT_NAMP>7.451e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:13</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.300</VOLTS>
+          <CURRNT_NAMP>7.599e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:15</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>28.000</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.200</VOLTS>
+          <CURRNT_NAMP>7.764e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:16</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.100</VOLTS>
+          <CURRNT_NAMP>7.891e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:18</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-4.000</VOLTS>
+          <CURRNT_NAMP>8.060e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:20</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.900</VOLTS>
+          <CURRNT_NAMP>8.192e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:21</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.800</VOLTS>
+          <CURRNT_NAMP>8.254e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:23</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.700</VOLTS>
+          <CURRNT_NAMP>8.429e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:25</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.600</VOLTS>
+          <CURRNT_NAMP>8.517e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:26</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.500</VOLTS>
+          <CURRNT_NAMP>8.626e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:28</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.400</VOLTS>
+          <CURRNT_NAMP>8.700e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:30</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.300</VOLTS>
+          <CURRNT_NAMP>8.846e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:31</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.200</VOLTS>
+          <CURRNT_NAMP>8.961e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:33</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.100</VOLTS>
+          <CURRNT_NAMP>9.133e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:35</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.900</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-3.000</VOLTS>
+          <CURRNT_NAMP>9.274e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:36</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.900</VOLTS>
+          <CURRNT_NAMP>9.478e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:38</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.800</VOLTS>
+          <CURRNT_NAMP>9.847e-04</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:40</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.700</VOLTS>
+          <CURRNT_NAMP>1.041e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:41</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.600</VOLTS>
+          <CURRNT_NAMP>1.139e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:43</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.500</VOLTS>
+          <CURRNT_NAMP>1.322e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:45</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.400</VOLTS>
+          <CURRNT_NAMP>1.569e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:46</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.300</VOLTS>
+          <CURRNT_NAMP>1.738e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:48</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.200</VOLTS>
+          <CURRNT_NAMP>1.797e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:50</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.100</VOLTS>
+          <CURRNT_NAMP>1.835e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:52</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-2.000</VOLTS>
+          <CURRNT_NAMP>1.882e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:53</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.900</VOLTS>
+          <CURRNT_NAMP>1.928e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:55</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.800</VOLTS>
+          <CURRNT_NAMP>1.945e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:57</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.700</VOLTS>
+          <CURRNT_NAMP>1.936e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:02:58</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.600</VOLTS>
+          <CURRNT_NAMP>1.916e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:00</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.500</VOLTS>
+          <CURRNT_NAMP>1.889e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:02</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.400</VOLTS>
+          <CURRNT_NAMP>1.874e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:03</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.300</VOLTS>
+          <CURRNT_NAMP>1.860e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:05</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.200</VOLTS>
+          <CURRNT_NAMP>1.846e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:07</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.100</VOLTS>
+          <CURRNT_NAMP>1.842e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:08</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-1.000</VOLTS>
+          <CURRNT_NAMP>1.838e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:10</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.900</VOLTS>
+          <CURRNT_NAMP>1.841e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:12</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.800</VOLTS>
+          <CURRNT_NAMP>1.836e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:13</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.700</VOLTS>
+          <CURRNT_NAMP>1.835e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:15</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.600</VOLTS>
+          <CURRNT_NAMP>1.831e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:17</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.500</VOLTS>
+          <CURRNT_NAMP>1.837e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:18</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.400</VOLTS>
+          <CURRNT_NAMP>1.839e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:20</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.300</VOLTS>
+          <CURRNT_NAMP>1.837e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:22</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.200</VOLTS>
+          <CURRNT_NAMP>1.832e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:23</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>-0.100</VOLTS>
+          <CURRNT_NAMP>1.834e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:25</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.000</VOLTS>
+          <CURRNT_NAMP>1.861e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:27</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.100</VOLTS>
+          <CURRNT_NAMP>1.840e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:28</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.200</VOLTS>
+          <CURRNT_NAMP>1.843e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:30</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.300</VOLTS>
+          <CURRNT_NAMP>1.839e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:32</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.400</VOLTS>
+          <CURRNT_NAMP>1.840e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:33</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.500</VOLTS>
+          <CURRNT_NAMP>1.843e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:35</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.600</VOLTS>
+          <CURRNT_NAMP>1.843e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:37</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.700</VOLTS>
+          <CURRNT_NAMP>1.843e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:38</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.800</VOLTS>
+          <CURRNT_NAMP>1.842e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:40</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>0.900</VOLTS>
+          <CURRNT_NAMP>1.849e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:42</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.000</VOLTS>
+          <CURRNT_NAMP>1.855e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:43</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.100</VOLTS>
+          <CURRNT_NAMP>1.852e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:45</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.200</VOLTS>
+          <CURRNT_NAMP>1.858e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:47</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.300</VOLTS>
+          <CURRNT_NAMP>1.862e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:48</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.400</VOLTS>
+          <CURRNT_NAMP>1.868e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:50</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.500</VOLTS>
+          <CURRNT_NAMP>1.868e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:52</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.600</VOLTS>
+          <CURRNT_NAMP>1.879e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:53</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.700</VOLTS>
+          <CURRNT_NAMP>1.898e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:55</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.800</VOLTS>
+          <CURRNT_NAMP>1.925e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:57</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>1.900</VOLTS>
+          <CURRNT_NAMP>1.964e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:03:58</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.000</VOLTS>
+          <CURRNT_NAMP>2.042e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:00</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.100</VOLTS>
+          <CURRNT_NAMP>2.176e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:02</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.200</VOLTS>
+          <CURRNT_NAMP>2.394e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:03</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.300</VOLTS>
+          <CURRNT_NAMP>2.802e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:05</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.400</VOLTS>
+          <CURRNT_NAMP>3.577e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:07</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.500</VOLTS>
+          <CURRNT_NAMP>5.223e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:08</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.600</VOLTS>
+          <CURRNT_NAMP>8.994e-03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:10</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.700</VOLTS>
+          <CURRNT_NAMP>1.862e-02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:12</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.800</VOLTS>
+          <CURRNT_NAMP>4.516e-02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:13</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>2.900</VOLTS>
+          <CURRNT_NAMP>1.159e-01</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:15</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.000</VOLTS>
+          <CURRNT_NAMP>8.629e-01</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:17</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.100</VOLTS>
+          <CURRNT_NAMP>1.044e+00</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:19</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.200</VOLTS>
+          <CURRNT_NAMP>2.699e+00</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:20</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.300</VOLTS>
+          <CURRNT_NAMP>6.511e+00</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:22</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.400</VOLTS>
+          <CURRNT_NAMP>1.463e+01</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:24</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.500</VOLTS>
+          <CURRNT_NAMP>3.069e+01</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:25</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.600</VOLTS>
+          <CURRNT_NAMP>5.995e+01</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:27</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.700</VOLTS>
+          <CURRNT_NAMP>1.103e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:29</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.800</VOLTS>
+          <CURRNT_NAMP>1.913e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:30</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>3.900</VOLTS>
+          <CURRNT_NAMP>3.099e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:32</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.000</VOLTS>
+          <CURRNT_NAMP>4.777e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:34</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.100</VOLTS>
+          <CURRNT_NAMP>6.970e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:36</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.200</VOLTS>
+          <CURRNT_NAMP>9.641e+02</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:37</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.300</VOLTS>
+          <CURRNT_NAMP>1.267e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:39</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.400</VOLTS>
+          <CURRNT_NAMP>1.593e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:41</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.500</VOLTS>
+          <CURRNT_NAMP>1.925e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:42</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.600</VOLTS>
+          <CURRNT_NAMP>2.249e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:44</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.300</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.700</VOLTS>
+          <CURRNT_NAMP>2.560e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:46</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.800</VOLTS>
+          <CURRNT_NAMP>2.856e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:47</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>4.900</VOLTS>
+          <CURRNT_NAMP>3.131e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:49</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.000</VOLTS>
+          <CURRNT_NAMP>3.390e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:51</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.100</VOLTS>
+          <CURRNT_NAMP>3.631e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:52</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.200</VOLTS>
+          <CURRNT_NAMP>3.856e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:54</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.300</VOLTS>
+          <CURRNT_NAMP>4.067e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:56</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.400</VOLTS>
+          <CURRNT_NAMP>4.266e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:57</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.500</VOLTS>
+          <CURRNT_NAMP>4.456e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:04:59</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.600</VOLTS>
+          <CURRNT_NAMP>4.635e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:01</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.700</VOLTS>
+          <CURRNT_NAMP>4.807e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:02</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.800</VOLTS>
+          <CURRNT_NAMP>4.972e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:04</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>5.900</VOLTS>
+          <CURRNT_NAMP>5.128e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:06</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.000</VOLTS>
+          <CURRNT_NAMP>5.277e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:07</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.100</VOLTS>
+          <CURRNT_NAMP>5.422e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:09</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.200</VOLTS>
+          <CURRNT_NAMP>5.564e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:11</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.300</VOLTS>
+          <CURRNT_NAMP>5.698e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:12</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.400</VOLTS>
+          <CURRNT_NAMP>5.832e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:14</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.500</VOLTS>
+          <CURRNT_NAMP>5.958e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:16</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.600</VOLTS>
+          <CURRNT_NAMP>6.084e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:17</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.700</VOLTS>
+          <CURRNT_NAMP>6.208e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:19</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.800</VOLTS>
+          <CURRNT_NAMP>6.326e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:21</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>6.900</VOLTS>
+          <CURRNT_NAMP>6.438e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:22</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.000</VOLTS>
+          <CURRNT_NAMP>6.551e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:24</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.100</VOLTS>
+          <CURRNT_NAMP>6.664e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:26</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.200</VOLTS>
+          <CURRNT_NAMP>6.773e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:27</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.300</VOLTS>
+          <CURRNT_NAMP>6.882e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:29</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.400</VOLTS>
+          <CURRNT_NAMP>6.988e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:31</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.500</VOLTS>
+          <CURRNT_NAMP>7.091e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:32</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.600</VOLTS>
+          <CURRNT_NAMP>7.194e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:34</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.700</VOLTS>
+          <CURRNT_NAMP>7.294e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:36</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.800</VOLTS>
+          <CURRNT_NAMP>7.392e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:37</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>7.900</VOLTS>
+          <CURRNT_NAMP>7.490e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:39</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.000</VOLTS>
+          <CURRNT_NAMP>7.582e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:41</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.100</VOLTS>
+          <CURRNT_NAMP>7.678e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:42</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.200</VOLTS>
+          <CURRNT_NAMP>7.772e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:44</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.400</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.300</VOLTS>
+          <CURRNT_NAMP>7.867e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:46</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.400</VOLTS>
+          <CURRNT_NAMP>7.957e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:47</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.500</VOLTS>
+          <CURRNT_NAMP>8.049e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:49</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.500</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.600</VOLTS>
+          <CURRNT_NAMP>8.140e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:51</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.700</VOLTS>
+          <CURRNT_NAMP>8.225e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:53</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.800</VOLTS>
+          <CURRNT_NAMP>8.316e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:54</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>8.900</VOLTS>
+          <CURRNT_NAMP>8.399e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:56</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.600</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.000</VOLTS>
+          <CURRNT_NAMP>8.487e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:58</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.100</VOLTS>
+          <CURRNT_NAMP>8.571e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:05:59</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.700</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.200</VOLTS>
+          <CURRNT_NAMP>8.655e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:01</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.300</VOLTS>
+          <CURRNT_NAMP>8.733e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:03</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.400</VOLTS>
+          <CURRNT_NAMP>8.819e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:04</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.500</VOLTS>
+          <CURRNT_NAMP>8.902e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:06</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.600</VOLTS>
+          <CURRNT_NAMP>8.989e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:08</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <DATA>
+          <VOLTS>9.700</VOLTS>
+          <CURRNT_NAMP>9.073e+03</CURRNT_NAMP>
+          <TIME>2021-09-28 02:06:09</TIME>
+          <TEMP_DEGC>22.600</TEMP_DEGC>
+          <AIR_TEMP_DEGC>22.600</AIR_TEMP_DEGC>
+          <RH_PRCNT>27.800</RH_PRCNT>
+        </DATA>
+        <CHILD_DATA_SET>
+          <HEADER>
+            <TYPE>
+              <EXTENSION_TABLE_NAME>HALFMOON_TC_PAR</EXTENSION_TABLE_NAME>
+              <NAME>Tracker Halfmoon TC Parameters</NAME>
+            </TYPE>
+          </HEADER>
+          <DATA_SET>
+            <COMMENT_DESCRIPTION>Test</COMMENT_DESCRIPTION>
+            <VERSION>TC_measurement-004</VERSION>
+            <PART>
+              <NAME_LABEL>37400_015_2-S_HM_EE</NAME_LABEL>
+              <KIND_OF_PART>2S Halfmoon E</KIND_OF_PART>
+            </PART>
+            <DATA>
+              <VTH_V>3.99069</VTH_V>
+            </DATA>
+          </DATA_SET>
+        </CHILD_DATA_SET>
+      </DATA_SET>
+    </CHILD_DATA_SET>
+  </DATA_SET>
+</ROOT>
